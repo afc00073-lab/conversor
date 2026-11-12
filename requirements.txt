@@ -1,0 +1,11 @@
+customtkinter>=6.0
+ocrmypdf>=16
+pypdf>=4
+python-docx>=1.1
+beautifulsoup4>=4.12
+lxml>=5
+reportlab>=4
+Pillow>=10
+pytesseract>=0.3
+openpyxl>=3.1
+tkinterdnd2>=0.3
